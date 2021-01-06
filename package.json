@@ -5,13 +5,13 @@
   "main": "dist/vue-vega.min.js",
   "unpkg": "dist/vue-vega.min.js",
   "bugs": {
-    "url": "https://github.com/nesterone/vue-vega/issues"
+    "url": "https://github.com/Kyzure/vue-vega/issues"
   },
   "homepage": "https://nesterone.github.io/vue-vega",
   "author": "nesterone <igornester@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nesterone/vue-vega.git"
+    "url": "git+https://github.com/Kyzure/vue-vega.git"
   },
   "license": "MIT",
   "scripts": {
